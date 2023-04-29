@@ -4,7 +4,7 @@ import json
 # Bunlara başlamadan önce terminaldan 'pip install requests' komutunu çalıştırıp import etmemiz gerekiyor
 
 # OpenWeatherMap API anahtarını alıp buraya gireceğiz
-api_key = "956c213ba9310bbec22c6ea65c45a8cc"
+api_key = "THIS PRIVATE KEY"
 
 # Hava durumunu almak istediğiniz şehrin ismini giriyoruz
 city_name = input("Şehir adını girin: ")
